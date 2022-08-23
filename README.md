@@ -1,6 +1,6 @@
 ## About Me 👋
 
-Hi. I'm Savon. I love to build new applications and enjoying learning new technology to incorporate into my personal projects. Connect with me on LinkedIn and checkout my porfolio website. 
+Hi. I'm Savon. I love to build new applications and enjoy learning new technology to incorporate into my personal projects. Connect with me on LinkedIn and checkout my porfolio website. 
 
  <a href="https://www.linkedin.com/in/savon-huynh/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
