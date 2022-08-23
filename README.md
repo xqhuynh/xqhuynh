@@ -1,10 +1,9 @@
 ## About Me 👋
 
-Savon Huynh | Full Stack Developer | Sports Fanatic
+Hi. I'm Savon. I love to build new applications and enjoying learning new technology to incorporate into my personal projects. Connect with me on LinkedIn and checkout my porfolio website. 
 
  <a href="https://www.linkedin.com/in/savon-huynh/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://young-castle-70686.herokuapp.com/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
 ![](https://komarev.com/ghpvc/?username=xqhuynh&style=for-the-badge&color=green)
 
