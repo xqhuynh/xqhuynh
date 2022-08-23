@@ -7,17 +7,18 @@ Hi. I'm Savon. I love to build new applications and enjoy learning new technolog
 
 ![](https://komarev.com/ghpvc/?username=xqhuynh&style=for-the-badge&color=green)
 
+<div class="container">
+ <img style="height: auto; width: 40%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xqhuynh&layout=compact" />
+ &nbsp;
+ &nbsp;
+ <img style="height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=xqhuynh&count_private=true&show_icons=true&theme=vue" />
+ </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqhuynh&layout=compact)
 
-![Savon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqhuynh&count_private=true&show_icons=true&theme=vue)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqhuynh&layout=compact) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<!-- ![Savon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqhuynh&count_private=true&show_icons=true&theme=vue) -->
+
 
 
 <!--
