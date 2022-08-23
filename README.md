@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=xqhuynh)
+![](https://komarev.com/ghpvc/?username=xqhuynh&style=for-the-badge&color=green)
 
 <!--
 **xqhuynh/xqhuynh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
