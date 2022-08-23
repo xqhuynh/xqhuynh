@@ -1,6 +1,8 @@
 ## About Me 👋
 
-My name is Savon and I love to use technology to solve problems.
+Savon Huynh | Full Stack Developer | Sports Fanatic
+
+	![Portfolio](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=xqhuynh&style=for-the-badge&color=green)
 
