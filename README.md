@@ -8,7 +8,7 @@ Hi. I'm Savon. I love to build new applications and enjoy learning new technolog
 ![](https://komarev.com/ghpvc/?username=xqhuynh&style=for-the-badge&color=green)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqhuynh)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqhuynh&layout=compact)
 
 ![Savon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqhuynh&count_private=true&show_icons=true&theme=vue)
 
