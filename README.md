@@ -2,7 +2,7 @@
 
 Savon Huynh | Full Stack Developer | Sports Fanatic
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![LinkedIn](https://www.linkedin.com/in/savon-huynh/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=xqhuynh&style=for-the-badge&color=green)
 
