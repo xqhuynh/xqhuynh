@@ -10,7 +10,7 @@ Hi. I'm Savon. I love to build new applications and enjoy learning new technolog
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqhuynh)
 
-[![Savon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqhuynh&count_private=true)
+[![Savon's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqhuynh&count_private=true&show_icons=true&theme=radical)
 
 
 <!--
